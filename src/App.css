@@ -1,0 +1,58 @@
+#navegacao{
+  background: #fff;
+  border: 1px solid #d8d8d8;
+  height: 65px;
+}
+
+#area{
+  width: 720px;
+  margin: 0 auto;
+}
+
+#logo{
+  float: left;
+}
+
+#menu{
+  float: right;
+  padding: 10px 0px;
+}
+
+.linha{
+  display: flex;
+  margin-top: 40px;
+  justify-content: space-around;
+}
+
+h1{
+  text-align: center;
+}
+
+.App{
+  
+}
+
+.teste{
+  display: inline-flex;
+}
+
+li{
+  display: inline-block;
+  font-size: 16px;
+  line-height: inherit;
+  letter-spacing: 0;
+}
+
+a{
+  padding: 27px 18px;
+}
+
+button{
+  background-color: aquamarine;
+  text-decoration: none;
+  border-radius: 400px;
+  text-transform: uppercase;
+  border: 2px solid rgb(25, 20, 20);
+  justify-content: center;
+  margin: 0 15px;
+}
